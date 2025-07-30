@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #0073b1;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.logo {
+    height: 80px;
+}
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #f4f4f4;
+    margin-top: 2rem;
+}
+
+.error-container {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.error-container a {
+    color: #0073b1;
+    text-decoration: none;
+}
+
+.error-container a:hover {
+    text-decoration: underline;
+}
